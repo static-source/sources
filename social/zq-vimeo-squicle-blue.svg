@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-vimeo_icon_white_on_blue_rounded_68x68">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="vimeo_icon_white_on_blue_rounded_68x68" clip-path="url(#clip-vimeo_icon_white_on_blue_rounded_68x68)">
+    <g id="vimeo_icon_white_on_blue_rounded">
+      <path id="Shape-2" d="M68,61.2A6.8,6.8,0,0,1,61.2,68H6.8A6.8,6.8,0,0,1,0,61.2V6.8A6.8,6.8,0,0,1,6.8,0H61.2A6.8,6.8,0,0,1,68,6.8Z" fill="#19b7e9"/>
+      <path id="Shape-1" d="M63.823,31.825Q63.5,39,53.862,51.472,43.9,64.5,37.008,64.5q-4.27,0-7.224-7.933-1.971-7.272-3.942-14.544-2.192-7.93-4.705-7.933-.547,0-3.833,2.315l-2.3-2.978q3.616-3.2,7.128-6.4,4.822-4.192,7.237-4.413,5.7-.552,7.019,7.843,1.423,9.057,1.975,11.263,1.643,7.514,3.618,7.511,1.533,0,4.605-4.873t3.288-7.42q.437-4.207-3.288-4.21a9.1,9.1,0,0,0-3.615.806Q46.573,21.667,56.728,22,64.256,22.222,63.823,31.825Z" transform="translate(-6.503 -9.529)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

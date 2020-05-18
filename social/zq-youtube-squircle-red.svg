@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-youtube_social_squircle_red_68x68">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="youtube_social_squircle_red_68x68" data-name="youtube_social_squircle_red  68x68" clip-path="url(#clip-youtube_social_squircle_red_68x68)">
+    <g id="组_39" data-name="组 39">
+      <rect id="矩形_7" data-name="矩形 7" width="68" height="68" rx="8" fill="red"/>
+      <path id="路径_27" data-name="路径 27" d="M68.673,9.318A8.651,8.651,0,0,0,60.028.673H9.318A8.651,8.651,0,0,0,.673,9.318v50.71a8.651,8.651,0,0,0,8.645,8.645h50.71a8.651,8.651,0,0,0,8.645-8.645V9.318Z" transform="translate(-0.673 -0.673)" fill="none" fill-rule="evenodd"/>
+      <path id="排除_2" data-name="排除 2" d="M-56.524-636.919c-.147,0-14.724-.011-18.344-.987a5.9,5.9,0,0,1-4.152-4.178c-.97-3.644-.981-11.3-.981-11.375s.011-7.732.981-11.375a5.9,5.9,0,0,1,4.152-4.178c3.619-.976,18.2-.987,18.344-.987s14.725.011,18.345.987a5.9,5.9,0,0,1,4.151,4.178c.971,3.643.982,11.3.982,11.375s-.011,7.731-.982,11.375a5.9,5.9,0,0,1-4.151,4.178C-41.8-636.93-56.377-636.919-56.524-636.919Zm-4.8-23.522v13.963l12.271-6.981-12.271-6.981Z" transform="translate(90.59 687.529)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

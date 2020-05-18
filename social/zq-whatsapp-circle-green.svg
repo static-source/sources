@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <filter id="Shape_3" x="-1.623" y="-1.9" width="71.087" height="71.148" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.05" x2="0.5" y2="-0.05" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#20b038"/>
+      <stop offset="1" stop-color="#67d670"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9f9f9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Shape_1" x="10.833" y="11.82" width="46.675" height="44.274" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-WhatsApp_Logo_1_68x68">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="WhatsApp_Logo_1_68x68" clip-path="url(#clip-WhatsApp_Logo_1_68x68)">
+    <g id="WhatsApp_Logo" data-name="WhatsApp Logo" transform="translate(-426.905 -320.956)">
+      <g id="WA_Logo" data-name="WA Logo" transform="translate(429.526 323.301)">
+        <g transform="matrix(1, 0, 0, 1, -2.62, -2.34)" filter="url(#Shape_3)">
+          <path id="Shape_3-2" data-name="Shape 3" d="M437.526,394.449l4.386-15.958A30.936,30.936,0,1,1,468.7,393.914h-.013a30.982,30.982,0,0,1-14.773-3.748Z" transform="translate(-434.65 -329.7)" fill="#fff"/>
+        </g>
+        <path id="Shape_3-3" data-name="Shape 3" d="M437.526,394.96l4.422-16.09a31.191,31.191,0,1,1,27.009,15.551h-.013a31.236,31.236,0,0,1-14.895-3.779Z" transform="translate(-437.548 -331.924)" fill="#fff"/>
+        <path id="Shape_3-4" data-name="Shape 3" d="M437.526,392.832l4.272-15.543a30.131,30.131,0,1,1,26.091,15.023h-.012a30.175,30.175,0,0,1-14.389-3.651Z" transform="translate(-436.334 -330.959)" fill="url(#linear-gradient)"/>
+        <path id="Shape_2" data-name="Shape 2" d="M430.25,387.72l4.425-16.1A31.212,31.212,0,1,1,461.7,387.181h-.013a31.263,31.263,0,0,1-14.9-3.782Zm17.3-9.946.947.56a25.958,25.958,0,0,0,13.194,3.6h.011a25.911,25.911,0,0,0,25.924-25.825,25.878,25.878,0,0,0-25.913-25.844,25.82,25.82,0,0,0-21.971,39.567l.616.977-2.619,9.53Z" transform="translate(-430.142 -324.761)" fill="url(#linear-gradient-2)"/>
+        <g id="_2" data-name="2" transform="translate(15.711 16.976)">
+          <g transform="matrix(1, 0, 0, 1, -18.33, -19.32)" filter="url(#Shape_1)">
+            <path id="Shape_1-2" data-name="Shape 1" d="M542.994,438.559c-.584-1.293-1.2-1.319-1.753-1.342-.454-.019-.974-.018-1.494-.018a2.868,2.868,0,0,0-2.078.972,8.691,8.691,0,0,0-2.728,6.476c0,3.821,2.793,7.513,3.182,8.031s5.392,8.61,13.313,11.723c6.583,2.587,7.923,2.072,9.352,1.943s4.611-1.878,5.26-3.691a6.467,6.467,0,0,0,.455-3.692c-.195-.324-.714-.518-1.494-.906s-4.611-2.267-5.325-2.526-1.234-.388-1.753.389-2.013,2.526-2.468,3.044-.909.583-1.688.195a21.3,21.3,0,0,1-6.267-3.853,23.411,23.411,0,0,1-4.336-5.378c-.455-.777-.048-1.2.342-1.584.351-.348.779-.907,1.169-1.36a5.284,5.284,0,0,0,.779-1.3,1.426,1.426,0,0,0-.065-1.36C545.2,443.935,543.687,440.095,542.994,438.559Z" transform="translate(-516.61 -417.88)" fill="#fefefe"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

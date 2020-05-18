@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <clipPath id="clip-ok-znak-orange_circle_68x68">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="ok-znak-orange_circle_68x68" clip-path="url(#clip-ok-znak-orange_circle_68x68)">
+    <g id="组_62" data-name="组 62" transform="translate(-436.6 -189.6)">
+      <circle id="XMLID_1573_" cx="34" cy="34" r="34" transform="translate(436.6 189.6)" fill="#ee8208"/>
+      <g id="XMLID_1568_" transform="translate(459.181 203.924)">
+        <path id="XMLID_1570_" d="M522.469,255.437A10.169,10.169,0,1,0,512.3,245.269a10.184,10.184,0,0,0,10.169,10.169m0-14.387a4.219,4.219,0,1,1-4.219,4.219,4.219,4.219,0,0,1,4.219-4.219" transform="translate(-511.049 -235.1)" fill="#fff"/>
+        <path id="XMLID_1569_" d="M523.871,308.615a19.033,19.033,0,0,0,5.919-2.456,2.992,2.992,0,0,0-3.18-5.069,12.942,12.942,0,0,1-13.695,0,2.992,2.992,0,1,0-3.18,5.069,18.725,18.725,0,0,0,5.919,2.456l-5.7,5.7a2.983,2.983,0,0,0,0,4.219,3.093,3.093,0,0,0,2.109.882,2.9,2.9,0,0,0,2.109-.882l5.6-5.6,5.6,5.6a2.983,2.983,0,0,0,4.219-4.219Z" transform="translate(-508.328 -279.999)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
